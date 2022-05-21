@@ -1,5 +1,6 @@
 # Bug bounty for coinbase
 
+- Set up the react project like the docs https://docs.cloud.coinbase.com/wallet-sdk/docs/web3-react until the step `access connection, account, network information`
 - Dependencies in the package.json file
 - https://docs.cloud.coinbase.com/wallet-sdk/docs/web3-react#access-connection-account-network-information
 
